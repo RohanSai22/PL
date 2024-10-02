@@ -48,4 +48,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). This license is chosen for its strong copyleft provisions, ensuring that modifications and derivative works are also open-sourced under the same terms.
+
+For more details, see the [LICENSE](LICENSE) file in the repository or visit [https://www.gnu.org/licenses/agpl-3.0.en.html](https://www.gnu.org/licenses/agpl-3.0.en.html).
