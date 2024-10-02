@@ -6,6 +6,8 @@ Based on the provided code and project structure, here's a comprehensive README 
 
 This project provides a robust and memory-efficient tool for analyzing scientific papers and documents. It can process various file types, extract key information, and generate summaries using advanced natural language processing and computer vision techniques.
 
+You can Directly run it using the website as well 
+
 ## Features
 
 - Supports multiple file formats (PDF, DOC/DOCX, TXT)
