@@ -117,10 +117,10 @@ Contributions to improve the analyzer are welcome. Please follow these steps:
 
 ## License
 
-[Specify your license here, e.g., MIT, GPL, etc.]
+GNU General Public License (GPL)
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Your Name] - maragonirohansai@gmail.com
 
 Project Link: [https://github.com/yourusername/memory-efficient-scientific-paper-analyzer](https://github.com/yourusername/memory-efficient-scientific-paper-analyzer)
